@@ -38,6 +38,9 @@ class IGaragedoorDisplaySettings(IBaseSettings):
             SimpleTerm("style.css", "style.css",
                 _(u"label_garagedoor_style_default",
                     default=u"Default")),
+            SimpleTerm("styleII.css", "styleII.css",
+                _(u"label_garagedoor_styleII",
+                    default=u"Black Style")),
             SimpleTerm("no_style.css", "no_style.css",
                 _(u"label_garagedoor_style_no",
                     default=u"No style / css file")),
@@ -54,10 +57,10 @@ class IGaragedoorDisplaySettings(IBaseSettings):
 
 
 class GaragedoorDisplayType(BatchingDisplayType):
-    name = u"Garagedoor"
+    name = u"garagedoor"
     schema = IGaragedoorDisplaySettings
     description = _(u"label_garagedoor_display_type",
-        default=u"garagedoor")
+        default=u"Garagedoor")
 
     def javascript(self):
 	
