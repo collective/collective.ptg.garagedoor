@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.ptg.garagedoor VERSION\n"
+"POT-Creation-Date: 2018-08-18 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.ptg.garagedoor\n"
+
+#. Default: "Name of Custom css file if you chose that above"
+#: ./__init__.py:54
+msgid "label_custom_style"
+msgstr ""
+
+#. Default: "Number of images before a forced new row (use a high number if you dont want this)"
+#: ./__init__.py:13
+msgid "label_garagedoor_columns"
+msgstr ""
+
+#. Default: "Garagedoor"
+#: ./__init__.py:62
+msgid "label_garagedoor_display_type"
+msgstr ""
+
+#. Default: "Height of (each) image"
+#: ./__init__.py:24
+msgid "label_garagedoor_imageheight"
+msgstr ""
+
+#. Default: "Width of (each) image"
+#: ./__init__.py:19
+msgid "label_garagedoor_imagewidth"
+msgstr ""
+
+#. Default: "What stylesheet (css file) to use"
+#: ./__init__.py:34
+msgid "label_garagedoor_style"
+msgstr ""
+
+#. Default: "Black Style"
+#: ./__init__.py:42
+msgid "label_garagedoor_styleII"
+msgstr ""
+
+#. Default: "Custom css file"
+#: ./__init__.py:48
+msgid "label_garagedoor_style_custom"
+msgstr ""
+
+#. Default: "Default"
+#: ./__init__.py:39
+msgid "label_garagedoor_style_default"
+msgstr ""
+
+#. Default: "No style / css file"
+#: ./__init__.py:45
+msgid "label_garagedoor_style_no"
+msgstr ""
+
+#. Default: "Use Thumbnail size instead of Size"
+#: ./__init__.py:29
+msgid "label_garagedoor_use_icons"
+msgstr ""
